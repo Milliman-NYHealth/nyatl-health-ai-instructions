@@ -1,10 +1,10 @@
-# NY ATL Health AI Instructions
+# NYATL Health AI Instructions
 
 Comprehensive guidelines for AI-assisted development and communication across New York Atlantic Health initiatives.
 
 ## Purpose
 
-This repository contains standardized instructions for working with AI assistants (like GitHub Copilot) on NY ATL Health projects. The guidelines ensure consistent, high-quality output across all communications and code work by establishing clear expectations for writing style, code quality, and work methodology.
+This repository contains standardized instructions for working with AI assistants (like GitHub Copilot) on NYATL Health projects. The guidelines ensure consistent, high-quality output across all communications and code work by establishing clear expectations for writing style, code quality, and work methodology.
 
 ## Contents
 
@@ -21,9 +21,9 @@ This repository contains standardized instructions for working with AI assistant
 
 These instructions incorporate best practices from:
 
-- **Milliman Corporate Editorial Style Guide** — Corporate standards for clarity, grammar, and professional communication
-- **Awesome Copilot** — Community best practices for effective AI assistant usage
-- Internal NY ATL Health standards and preferences
+- **[Milliman Corporate Editorial Style Guide](https://milliman.sharepoint.com/sites/GCSMarCom/Publishing%20Resources/Guidelines%20-%20Milliman%20corporate%20editorial%20style%20guide.pdf?web=1)** — Corporate standards for clarity, grammar, and professional communication
+- **[Awesome Copilot](https://github.com/github/awesome-copilot/)** — Community best practices for effective AI assistant usage
+- Internal NYATL Health standards and preferences
 
 ## Key Principles
 
@@ -44,4 +44,4 @@ These instructions are designed to be used with AI assistants to establish consi
 
 ## Updates
 
-This document is maintained by the NY ATL Health team and will be updated as best practices evolve. For questions or contributions, contact the maintainers.
+This document is maintained by the NYATL Health AI Committee and will be updated as best practices evolve. For questions or contributions, contact the anyone on the Committee.
