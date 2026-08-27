@@ -1,6 +1,6 @@
 # NYATL Health AI Instructions
 
-Comprehensive guidelines for AI-assisted development and communication across New York Atlantic Health initiatives.
+Comprehensive guidelines for AI-assisted development and communication across the New York Atlanta (NYATL) Health Practice.
 
 ## Purpose
 
