@@ -22,6 +22,7 @@ This repository contains standardized instructions for working with AI assistant
 These instructions incorporate best practices from:
 
 - **[Milliman Corporate Editorial Style Guide](https://milliman.sharepoint.com/sites/GCSMarCom/Publishing%20Resources/Guidelines%20-%20Milliman%20corporate%20editorial%20style%20guide.pdf?web=1)** — Corporate standards for clarity, grammar, and professional communication
+- **[ASD-STE 100](https://www.asd-ste100.org/)** — Specifications for simplified technical English, emphasizing clarity and precision in communication
 - **[Awesome Copilot](https://github.com/github/awesome-copilot/)** — Community best practices for effective AI assistant usage
 - Internal NYATL Health standards and preferences
 
